@@ -1,0 +1,11 @@
+.app {
+  padding: 30px;
+  background-color: lightblue;
+}
+
+.todo-react {
+  align-items: center;
+  display: flex;
+  font-size: 20px;
+  justify-content: space-between;
+}
